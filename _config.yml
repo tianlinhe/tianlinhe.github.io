@@ -11,8 +11,8 @@ github_repo: "https://github.com/tianlinhe/tianlinhe.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Bio"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Since Nov 2018 I've moved to Lower Saxony in Germany. Maintaining a blog, keeping myself busy reading writing exercising are the goals of my 25s."
+sidebar-avatar: /img/about-TL-gotland.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
