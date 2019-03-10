@@ -1,6 +1,6 @@
 # Site settings
 title: Little Saxony Tales
-SEOTitle: Tianlin He | Little Saxony Tales
+SEOTitle: Tianlin He | The Saxony Tales
 header-img: img/post-bg-desk-anno.jpg
 email: tinaho.opq@gmail.com
 #description: "撒克遜故事集"
@@ -58,7 +58,7 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: tianlin
+disqus_username: tianlinhe
 
 # Gitalk
 #gitalk:
