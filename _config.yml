@@ -2,7 +2,8 @@
 title: Little Saxony Tales
 SEOTitle: Tianlin He | Little Saxony Tales
 header-img: img/post-bg-desk-short.jpg
-email: tinaho.opq@gmail.com
+email: tinaho_ok@hotmail.com
+description: "相信未來熱愛生命"
 keyword: "Tianlin, Sweden, 瑞典，天琳的博客, tianlinhe, Germany, 德國, PhD, 博士"
 url: "http://tianlinhe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -10,7 +11,7 @@ github_repo: "https://github.com/tianlinhe/tianlinhe.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "China-born early-stage researcher living in Germany"
+sidebar-about-description: "I have a lot of hobbies but little time"
 sidebar-avatar: /img/about-TL-gotland.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
