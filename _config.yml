@@ -11,10 +11,11 @@ github_repo: "https://github.com/tianlinhe/tianlinhe.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "禁鑽牛角尖，不是不能用"
+sidebar-about-description: "此處禁鑽牛角尖"
 sidebar-avatar: /img/about-TL-gotland.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Markdown rendering
+markdown: kramdown
 
 # SNS settings
 RSS: false
