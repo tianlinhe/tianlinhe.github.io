@@ -4,7 +4,7 @@ SEOTitle: Tianlin He | Little Saxony Tales
 header-img: img/post-bg-desk-short.jpg
 email: tinaho_ok@hotmail.com
 description: "相信未來熱愛生命"
-keyword: "Tianlin, Sweden, 瑞典，天琳的博客, tianlinhe, Germany, 德國, PhD, 博士"
+keyword: "Tianlin He, Sweden, tianlinhe, Germany, 德國, PhD, 博士"
 url: "http://tianlinhe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tianlinhe/tianlinhe.github.io.git" # you code repository
@@ -25,7 +25,7 @@ github_username:    tianlinhe
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
-instagram_username:  tinaho_ok
+#instagram_username:  tinaho_ok
 
 
 
